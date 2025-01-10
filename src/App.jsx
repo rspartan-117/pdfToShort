@@ -14,7 +14,7 @@ function App() {
       <Heading />
       <FileUpload />
       <VideoPlayer /> 
-      <Footer />
+      <Footer /> 
     </div>
   );
 }
